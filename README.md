@@ -1,4 +1,4 @@
-# HealthBooker🧑‍⚕️
+# Healthcare🧑‍⚕️
 
 <h3>Description :</h3> 
 This is a webapp where you can book an appointment with a doctor.
